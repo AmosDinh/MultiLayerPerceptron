@@ -4,6 +4,7 @@ Basic multi layer perceptron:
 - sigmoid activation functions, 
 - multi-sample backpropagation
 
+____________________________________________
 hypothesis(node03) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/|\    
 bias02 node12 node22  
@@ -11,6 +12,7 @@ bias02 node12 node22
 bias01 node11 node21  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/|\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//|  
 bias00 &nbsp;&nbsp;x0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x1  
+____________________________________________
 
 Converges after 8000 steps.
 Learns XOR:
