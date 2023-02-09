@@ -1,6 +1,6 @@
 # MultiLayerPerceptron
 
-Basic multi layer perceptron, sigmoid activation functions:  
+Basic multi layer perceptron, sigmoid activation functions, gradient descent only based on one sample  
 
 hypothesis(node03) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/|\    
