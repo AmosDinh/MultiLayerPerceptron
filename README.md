@@ -1,6 +1,6 @@
 # MultiLayerPerceptron
 
-Basic multi layer perceptron:
+Basic multi layer perceptron, sigmoid activation functions:  
 hypothesis(node03) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/|\    
 bias02 node12 node22  
