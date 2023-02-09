@@ -4,8 +4,8 @@ Basic multi layer perceptron
 
 Learns XOR
 
-hypothesis(node03)
-        /|\    
+hypothesis(node03) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/|\    
 bias02 node12 node22  
         /|\    //|  
 bias01 node11 node21  
