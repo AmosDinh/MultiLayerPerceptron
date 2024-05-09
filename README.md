@@ -2,7 +2,7 @@
 
 Basic multi layer perceptron:
 - sigmoid activation functions, 
-- multi-sample backpropagation
+- multi-sample backpropagation.
 
 ____________________________________________
 hypothesis(node03) <br>
